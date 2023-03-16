@@ -1,0 +1,30 @@
+stefa@DESKTOP-LMHM6M1 MINGW64 ~/SI_2023_lab1_183205 (master)
+$ git log
+commit e322f3e79ba3e4abc6a83357de04f18a798e0b71 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Stefan <stefanatanasovski04@gmail.com>
+Date:   Thu Mar 16 14:48:00 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit 4e054027225ef5633fd16eae5e90573a45ddd663
+Merge: 0106fd2 6a6e91e
+Author: Stefan <stefanatanasovski04@gmail.com>
+Date:   Thu Mar 16 14:55:17 2023 +0100
+
+    Merge branch 'bug2'
+
+commit 6a6e91ef3a20ee5bfefb50e565ba32761e67de02 (origin/bug2, bug2)
+Author: Stefan <stefanatanasovski04@gmail.com>
+Date:   Thu Mar 16 14:44:17 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit 0106fd232958b0c45d76d7fe1ae5f616c593a121 (origin/bug1, bug1)
+Author: Stefan <stefanatanasovski04@gmail.com>
+Date:   Thu Mar 16 14:42:08 2023 +0100
+
+    Fix wrong loop for reading
+
+commit 7c78ef70fdcb67c3181c8dd28ca9a1339230c5f8
+Author: Stefan <stefanatanasovski04@gmail.com>
+
